@@ -1,12 +1,26 @@
-*.class
+# Use Whitelist Mode
+/*
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Gradle Files
+!gradle/
+!gradlew
+!gradlew.bat
+!build.gradle
+!gradle.properties
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# Description Files
+!README.md
+!LICENSE
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# Source Code
+!src/
+
+# Git Files
+!.gitignore
+
+# Libs Files
+!libs/
+
+# Ci Files
+!.travis.yml
+
