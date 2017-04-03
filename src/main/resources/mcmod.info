@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "rpgitemmod",
+  "name": "RPGItemMod",
+  "description": "RPG Item Mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Mouse","UnknownDomain"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
