@@ -1,8 +1,8 @@
 [
 {
-  "modid": "rpgitemmod",
-  "name": "RPGItemMod",
-  "description": "RPG Item Mod.",
+  "modid": "${modid}",
+  "name": "${name}",
+  "description": "Custom Item",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
